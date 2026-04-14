@@ -40,7 +40,8 @@ This project was created to: / Esse projeto foi criado para:
 
 📸 Preview
 
-(add a screenshot of your project here 👇) / (adicione um print do seu projeto aqui 👇)
+<img width="1372" height="892" alt="gitHub-img2" src="https://github.com/user-attachments/assets/05989023-fff8-4d26-af89-c3783bc79967" />
+<img width="1302" height="898" alt="gitHub-img" src="https://github.com/user-attachments/assets/ebad6022-a2cc-44bf-acd1-c10442d15115" />
 
 image
 🚀 Future Improvements / Melhorias futuras
