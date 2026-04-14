@@ -1,7 +1,7 @@
 💱 Currency Converter (HTML + CSS + JavaScript) / Conversor de Moedas (HTML + CSS + JavaScript)
 
-I'm currently learning programming, and this is one of the projects I built along the way 🚀 / Estou aprendendo programação, e esse é um dos projetos que desenvolvi durante essa jornada 🚀
-Every project is a step forward! / Cada projeto é um passo a mais!
+I'm currently learning programming, and this is one of the projects I built along the way 🚀 / Estou aprendendo programação, e esse é um dos projetos que desenvolvi 🚀
+
 
 📚 About the Project / Sobre o Projeto
 
@@ -40,15 +40,14 @@ This project was created to: / Esse projeto foi criado para:
 
 📸 Preview
 
-<img width="1372" height="892" alt="gitHub-img2" src="https://github.com/user-attachments/assets/05989023-fff8-4d26-af89-c3783bc79967" />
 <img width="1302" height="898" alt="gitHub-img" src="https://github.com/user-attachments/assets/ebad6022-a2cc-44bf-acd1-c10442d15115" />
+<img width="1372" height="892" alt="gitHub-img2" src="https://github.com/user-attachments/assets/05989023-fff8-4d26-af89-c3783bc79967" />
 
 image
 🚀 Future Improvements / Melhorias futuras
 Add more currencies / Adicionar mais moedas
 Integrate real-time API / Integrar API em tempo real
-Improve UI/UX / Melhorar o design
-Add conversion history / Adicionar histórico de conversões
+
 ⭐ If you like it / Se curtir
 
 If you found this helpful or interesting: / Se você achou útil ou interessante:
