@@ -252,3 +252,17 @@ section:active {
     font-size: 25px;
     font-weight: 600;
 }
+
+@media (max-width: 500px) {
+
+    .main2 {
+        width: 90%;
+    }
+
+    .logo {
+    height: 110px;
+    display: block;
+    margin: 10px auto;
+}
+
+}
