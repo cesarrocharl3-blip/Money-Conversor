@@ -135,32 +135,32 @@ function change2() {
 
     if (selectConvert.value == "dolar2") {
         coinsName.innerHTML = "US$ Dólar Americano"
-        coinsImg.src = "./assets/dolar 4.png"
+        coinsImg.src = "./assets/dolar4.png"
     }
 
     if (selectConvert.value == "euro2") {
         coinsName.innerHTML = "€ Euro"
-        coinsImg.src = "./assets/euro 4.png"
+        coinsImg.src = "./assets/euro4.png"
     }
 
     if (selectConvert.value == "real2") {
         coinsName.innerHTML = "R$ Real Brasileiro"
-        coinsImg.src = "./assets/real 4.png"
+        coinsImg.src = "./assets/real4.png"
     }
 
     if (selectConvert.value == "libra2") {
         coinsName.innerHTML = "£ Libra Esterlina"
-        coinsImg.src = "./assets/libra 4.png"
+        coinsImg.src = "./assets/libra4.png"
     }
 
     if (selectConvert.value == "peso2") {
         coinsName.innerHTML = "$ Peso Argentino"
-        coinsImg.src = "./assets/pesos 4.png"
+        coinsImg.src = "./assets/pesos4.png"
     }
 
     if (selectConvert.value == "bitcoin2") {
         coinsName.innerHTML = "₿ Bitcoin"
-        coinsImg.src = "./assets/bitcoin 4.png"
+        coinsImg.src = "./assets/bitcoin4.png"
     }
 
     // Essa função são das imagens, esse código chama a função de conversão NUMÉRICA sempre que trocar a 
@@ -174,32 +174,32 @@ function change1() {
 
     if (selectToConvert.value == "dolar1") {
         coinName.innerHTML = "US$ Dólar Americano"
-        coinImg.src = "./assets/dolar 4.png"
+        coinImg.src = "./assets/dolar4.png"
     }
 
     if (selectToConvert.value == "euro1") {
         coinName.innerHTML = "€ Euro"
-        coinImg.src = "./assets/euro 4.png"
+        coinImg.src = "./assets/euro4.png"
     }
 
     if (selectToConvert.value == "real1") {
         coinName.innerHTML = "R$ Real Brasileiro"
-        coinImg.src = "./assets/real 4.png"
+        coinImg.src = "./assets/real4.png"
     }
 
     if (selectToConvert.value == "libra1") {
         coinName.innerHTML = "£ Libra Esterlina"
-        coinImg.src = "./assets/libra 4.png"
+        coinImg.src = "./assets/libra4.png"
     }
 
     if (selectToConvert.value == "peso1") {
         coinName.innerHTML = "$ Peso Argentino"
-        coinImg.src = "./assets/pesos 4.png"
+        coinImg.src = "./assets/pesos4.png"
     }
 
     if (selectToConvert.value == "bitcoin1") {
         coinName.innerHTML = "₿ Bitcoin"
-        coinImg.src = "./assets/bitcoin 4.png"
+        coinImg.src = "./assets/bitcoin4.png"
     }
 
     convertValue()
